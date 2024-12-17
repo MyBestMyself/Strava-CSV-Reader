@@ -1,0 +1,11 @@
+Date,Ride Name,Distance (km),Duration (hh:mm:ss),Average Speed (km/h),Elevation Gain (m),Calories
+2024-06-01,Morning Ride,25.3,0:37:40,40.4,350,700
+2024-06-02,Mountain Climb,47.6,1:22:35,34.6,1200,1200
+2024-06-03,Evening Recovery Ride,18.2,0:25:20,43.0,180,450
+2024-06-05,Race Day Training,60.5,1:00:15,60.2,500,1400
+2024-06-07,Flat Road Sprint,35.4,0:32:42,65.0,100,800
+2024-06-10,Hill Intervals,22.0,0:40:07,33.0,600,650
+2024-06-12,Beach Cruise,15.3,0:22:30,40.8,50,350
+2024-06-15,Century Ride,100.0,2:12:50,45.2,950,2500
+2024-06-17,Evening Ride,28.4,0:35:05,48.6,300,750
+2024-06-20,Long Weekend Ride,75.2,1:35:27,47.2,850,1900
